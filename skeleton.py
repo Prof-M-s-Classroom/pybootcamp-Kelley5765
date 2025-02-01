@@ -34,7 +34,7 @@ class CrewRoster:
 
     def __init__(self):
         """
-        Initializes CrewRoster with an empty list
+        Initializes CrewRoster with an empty list.
         """
         self.crew = []  # List of CrewMember objects
 
