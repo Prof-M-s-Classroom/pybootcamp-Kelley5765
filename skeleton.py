@@ -19,7 +19,7 @@ class CrewMember:
 
     def __str__(self):
         """
-        Returns a string representation of CrewMember
+        Returns a string representation of CrewMember.
 
         Returns:
             str: String representation of CrewMember with name, role, and experience.
